@@ -37,6 +37,7 @@ Chatterly Compose is a feature-rich chat application built using Jetpack Compose
   - Firebase Authentication ensures user credentials are securely handled with robust encryption.
   - Supports email/password login and signup.
   - Built-in error handling for invalid or duplicate credentials.
+  - 
 ![WhatsApp Image 2025-01-02 at 15 54 53_ed57812d](https://github.com/user-attachments/assets/8d624845-3c0a-43ad-af88-53f5a0cd30d4)
 ![WhatsApp Image 2025-01-02 at 15 55 21_d0d8abc5](https://github.com/user-attachments/assets/8f930322-09e4-4cae-8925-030fa8e9da1a)
 
