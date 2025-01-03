@@ -37,11 +37,15 @@ Chatterly Compose is a feature-rich chat application built using Jetpack Compose
   - Firebase Authentication ensures user credentials are securely handled with robust encryption.
   - Supports email/password login and signup.
   - Built-in error handling for invalid or duplicate credentials.
+![WhatsApp Image 2025-01-02 at 15 54 53_ed57812d](https://github.com/user-attachments/assets/8d624845-3c0a-43ad-af88-53f5a0cd30d4)
+![WhatsApp Image 2025-01-02 at 15 55 21_d0d8abc5](https://github.com/user-attachments/assets/8f930322-09e4-4cae-8925-030fa8e9da1a)
 
 ### Real-Time Messaging
 
 - **Instant Chat Updates**: Messages are synchronized in real-time for seamless communication.
 - **Efficient Data Handling**: Messages are stored in Firebase Realtime Database or Firestore for quick retrieval and low-latency delivery.
+
+![WhatsApp Image 2025-01-02 at 16 05 09_83388b06](https://github.com/user-attachments/assets/e94c7bfc-ece9-4d0f-8509-469c63827a1a)
 
 ### Media Transfer
 
@@ -49,6 +53,10 @@ Chatterly Compose is a feature-rich chat application built using Jetpack Compose
   - Users can share images, videos, and documents securely.
   - Files are uploaded to Firebase Cloud Storage and linked to chat messages.
   - Secure file access with role-based permissions.
+
+![WhatsApp Image 2025-01-02 at 16 00 45_24376cec](https://github.com/user-attachments/assets/ae39d93c-b615-48a9-ab4b-ebc22948c25d)
+![WhatsApp Image 2025-01-02 at 16 00 45_0b3026ca](https://github.com/user-attachments/assets/ee9b40fb-51e4-4a48-ac2e-f560bb9c39de)
+
 
 ### Modern UI
 
