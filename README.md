@@ -1,8 +1,8 @@
-# Chatterly Compose - MainAppComposable
+# Chatterly - MainAppComposable
 
 ## 🌟 Overview
 
-Chatterly Compose is a feature-rich chat application built using Jetpack Compose. It offers a modern messaging experience with Firebase-powered backend services, ensuring robust authentication, secure media storage, and seamless message delivery.
+Chatterly is a feature-rich chat application built using Jetpack Compose. It offers a modern messaging experience with Firebase-powered backend services, ensuring robust authentication, secure media storage, and seamless message delivery.
 
 ---
 
